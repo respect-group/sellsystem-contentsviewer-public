@@ -1,1 +1,1 @@
-# sellsystem-contentsviewer-pubric
+# sellsystem-contentsviewer-public
